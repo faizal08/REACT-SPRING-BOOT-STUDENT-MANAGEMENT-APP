@@ -1,0 +1,47 @@
+.heading{
+    margin-top: 3%;
+  text-align: center;
+   
+}
+.space{
+   
+    margin-top: 3%;
+}
+
+
+.header {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  
+  
+ 
+  
+  button {
+    padding: 5px 10px;
+    border: none;
+    /* background-color: #007bff; */
+    background-color:navy;
+
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
